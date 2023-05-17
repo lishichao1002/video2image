@@ -1,0 +1,15 @@
+{
+  "name": "video_frame_handle-1.0",
+  "version": "1.0.0",
+  "description": "qtopencv视频拆分为图片帧，帧合成视频（mp4，avi）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "join-images": "^1.1.5",
+    "node-merge-images": "^1.0.0"
+  }
+}
